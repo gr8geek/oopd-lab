@@ -1,0 +1,55 @@
+
+1.Add new Teacher
+2.Add new Student
+3.Display Teacher
+4.Dispaly Student
+Enter your choice
+1
+Enter the name
+Arjun
+Enter gender age and salary in seperate lines
+M
+30
+90000
+Enter the lists of subjects
+Type Exit to finish
+Mathematics
+Soft Computing
+Exit
+Enter your choice
+2
+Enter the name
+Raman
+Enter gender age major and semester number in seperate lines
+M
+30
+CSE
+3
+Enter your choice
+3
+Enter the name
+Raman
+Teacher does not exists
+Enter your choice
+4
+Enter the name
+Raman
+Name : Raman
+Age : 30
+Gender : M
+Major : CSE
+Semester : 3
+Enter your choice
+3
+Enter the name
+Arjun
+Name : Arjun
+Age : 30
+Gender : M
+Salary : 90000.0
+List of Subjects:
+
+Mathematics
+Soft Computing
+Enter your choice
+0

@@ -1,0 +1,10 @@
+Enter taste and size of the Apple fruit
+Sweet and fibrous
+20
+Enter taste and size of the Orange fruit
+Citrous
+10
+Apple's eat() invoked
+Taste : Sweet and fibrous
+Orange's eat() invoked
+Taste : Citrous

@@ -1,0 +1,41 @@
+Enter 1 or 2 to invoke either of two overloaded constructor to create a new account
+Enter 3 to get account details
+Enter any other number to exit
+Enter your choice
+1
+Enter Name
+Pratyush Harsh
+Enter Ammount
+900000
+Enter Account number
+9090
+Enter your choice
+2
+Enter Name
+Abhinav Kumar
+Enter Ammount
+45000
+Enter Account number
+7878
+Enter account type
+Current
+Enter address
+Deoghar, Jharkhand,India
+Enter your choice
+3
+Enter name of Account holder
+Abhinav Kumar
+Name =Abhinav Kumar
+Account Number=7878
+Ammount/Balance =45000.0
+Address = Deoghar, Jharkhand,India
+Account Type =Current
+Enter your choice
+3
+Enter name of Account holder
+Pratyush Harsh
+Name =Pratyush Harsh
+Account Number=9090
+Ammount/Balance =900000.0
+Enter your choice
+0

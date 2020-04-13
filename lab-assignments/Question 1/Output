@@ -1,0 +1,61 @@
+Welcome to animal test 
+ Options: 
+1.Create Animal
+2.Create Bird
+3.Display Animal
+4.Display Bird
+5.Modify State of Animal
+6.Modify State of Bird
+ Press Any othe key to EXIT
+Enter your choice
+2
+Enter Name of Bird
+Parrot
+Food of Bird
+Grains
+Enter your choice
+6
+Enter Name of Bird
+Parrot
+Enter the sleeping state(0=sleeping 1=awake)
+1
+Bird Parrot is awake
+Enter the flying state(0=fly 1=not flying)
+0
+Bird Parrot is set to flying state
+Enter your choice
+4
+Enter Name of Bird
+Parrot
+Name:Parrot
+Sleeping state:Awake  
+Food eats :Grains
+Flying state :Flying
+Enter your choice
+3
+Enter Name of Animal
+Dog
+Animal does not exists
+Enter your choice
+1
+Enter Name of Animal
+Dog
+Food of Animal
+Flesh
+Enter your choice
+5
+Enter Name of Animal
+Dog
+Enter the sleeping state(0=sleeping 1=awake)
+0
+Animal Dog is set to sleeping state
+zzZ
+Enter your choice
+3
+Enter Name of Animal
+Dog
+Name:Dog
+Sleeping state:Sleeping ..zzZ
+Food eats :Flesh
+Enter your choice
+0
